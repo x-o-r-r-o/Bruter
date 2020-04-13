@@ -15,5 +15,5 @@ git clone https://github.com/kitasS/Bruter/
 cd Bruter  
 python3 bruter.py  
 
-#Windows  
+# Windows  
 На Windows не тестил
