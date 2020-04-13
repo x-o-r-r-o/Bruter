@@ -4,16 +4,16 @@
 # Termux  
 apt update && apt upgrade  
 apt install python git  
-pip install colorama rarfile  
+pip install colorama rarfile pyzipper  
 git clone https://github.com/kitasS/Bruter/  
 cd Bruter  
 python bruter.py  
 
 # Linux  
-pip3 install colorama rarfile  
+pip3 install colorama rarfile pyzipper  
 git clone https://github.com/kitasS/Bruter/  
 cd Bruter  
 python3 bruter.py  
 
 # Windows  
-На Windows не тестил
+Скачать Python с оф. сайта (python.org), скачать репозиторий, перейти в архив и запустить  
