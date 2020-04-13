@@ -2,7 +2,7 @@
 Брутер архивов zip/rar. Программа создана в ознакомительных целях
 
 # Termux
-apt update && apt upgrade
+apt update && apt upgrade \n
 apt install python git
 pip install colorama rarfile
 git clone https://github.com/kitasS/Bruter/
