@@ -14,3 +14,6 @@ pip3 install colorama rarfile
 git clone https://github.com/kitasS/Bruter/  
 cd Bruter  
 python3 bruter.py  
+
+#Windows  
+На Windows не тестил
