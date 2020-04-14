@@ -1,6 +1,9 @@
 # Bruter
 Брутер архивов zip/rar. Программа создана в ознакомительных целях
 
+# Статья о программе  
+https://te.legra.ph/Brutim-paroli-ot-arhivov-rar-zip-04-13
+
 # Termux  
 apt update && apt upgrade  
 apt install python git  
