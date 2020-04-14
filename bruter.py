@@ -46,7 +46,7 @@ def bruteZip (diction, archive):
                         isBruted = True
                         print (Fore.GREEN + '[+] Password is ' + password)
                     except:
-                        print (Fore.    RED  + '[+] Password is not ' + password)
+                        print (Fore.RED  + '[+] Password is not ' + password)
                 else:
                     finish()
 
